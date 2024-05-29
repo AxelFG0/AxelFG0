@@ -1,0 +1,6 @@
+- 👋 @AxelFG0
+- 👀 estoy interesado en las consolas de generaciones pasadas
+- 🌱 la programacion es mi pasa tiempo
+- 🏴‍☠️ Minecraft pe 0.14.2
+- 😄 El
+- ⚡ PHP aficionado
