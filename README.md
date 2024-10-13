@@ -1,6 +1,4 @@
 - 👋 @AxelFG0
-- 👀 estoy interesado en las consolas de generaciones pasadas
-- 🌱 la programacion es mi pasa tiempo
-- 🏴‍☠️ c++
-- 😄 El
-- ⚡ c
+- JavaScript
+- Java 
+- Pronombre = El
